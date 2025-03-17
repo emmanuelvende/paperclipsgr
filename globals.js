@@ -70,7 +70,7 @@ var wireDroneFlag = 0;
 var factoryLevel = 0;
 var factoryBoost = 1;
 var droneBoost = 1;
-var availableMatter = Math.pow(10, 24)*6000;
+var availableMatter = Math.pow(10, 24) * 6000;
 var acquiredMatter = 0;
 var processedMatter = 0;
 var harvesterLevel = 0;
@@ -85,7 +85,7 @@ var harvesterBill = 0;
 var wireDroneBill = 0;
 var factoryBill = 0;
 var probeCount = 0;
-var totalMatter = Math.pow(10, 54)*30;
+var totalMatter = Math.pow(10, 54) * 30;
 var foundMatter = availableMatter;
 var qFlag = 0;
 var qClock = 0;
@@ -166,7 +166,7 @@ var finalClips = 0;
 
 var resetFlag = 2;
 var threnodyAudio = new Audio();
-var threnodyLoadedBool = false; 
+var threnodyLoadedBool = false;
 
 
 
